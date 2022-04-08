@@ -5,7 +5,7 @@
 book:<大话数据结构>
 
 
-book:<C Primer Plus>
+book:C Primer Plus
 
 
 Q1:为什么有debug.log文件会中断上传呢？
